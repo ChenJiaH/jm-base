@@ -132,8 +132,8 @@ maxWidth | String | ``"无"`` | 最大宽度
 支持Node.js;
 
 ``` Javascript
-    // import jm from 'jm-base'; // ES6
-    var jm = require('jm-base');
+    // import jm from 'jm'; // ES6
+    var jm = require('jm');
     jm.API
 ```
 
