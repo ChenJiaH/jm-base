@@ -1,0 +1,23 @@
+{
+  "name": "jm-base",
+  "version": "0.0.4",
+  "description": "A universal tool in any surrounding.",
+  "main": "jm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChenJiaH/jm-base.git"
+  },
+  "keywords": [
+    "jm"
+  ],
+  "author": "McChen",
+  "email": "chenjiahao@jd.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChenJiaH/jm-base/issues"
+  },
+  "homepage": "https://github.com/ChenJiaH/jm-base#readme"
+}
